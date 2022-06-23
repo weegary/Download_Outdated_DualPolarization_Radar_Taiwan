@@ -10,6 +10,6 @@ This program downloads dual polarization radar's echo image from cwb.gov.tw.
 
 Latest radar's echo images are shown in https://www.cwb.gov.tw/V8/C/W/OBS_Radar_rain.html <br/>
 However, you cannot find the images for more than a few hours ago. <br/>
-Therefore, this program finds the outdated images and download them.
+Therefore, this program finds the outdated images and downloads them.
 
 ![RCSL_radar_image.png](/RCSL_radar_image.png)
