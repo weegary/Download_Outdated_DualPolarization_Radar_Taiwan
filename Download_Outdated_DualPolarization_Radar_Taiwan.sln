@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Download_Outdated_DualPolarization_Radar_Taiwan", "Download_Outdated_DualPolarization_Radar_Taiwan.csproj", "{3535C84D-FE45-4459-9B27-5B52FFC1A801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3535C84D-FE45-4459-9B27-5B52FFC1A801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3535C84D-FE45-4459-9B27-5B52FFC1A801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3535C84D-FE45-4459-9B27-5B52FFC1A801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3535C84D-FE45-4459-9B27-5B52FFC1A801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AFD3AB3-EEC0-4843-9CFF-9F5A4F0FADB5}
+	EndGlobalSection
+EndGlobal
