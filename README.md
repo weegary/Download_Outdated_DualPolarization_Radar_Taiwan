@@ -12,4 +12,4 @@ Latest radar's echo images are shown in https://www.cwb.gov.tw/V8/C/W/OBS_Radar_
 However, you cannot find the images for more than a few hours ago. <br/>
 Therefore, this program finds the outdated images and download them.
 
-![RCSL_radar_image.jpg](/RCSL_radar_image.jpg)
+![RCSL_radar_image.png](/RCSL_radar_image.png)
